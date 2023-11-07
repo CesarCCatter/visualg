@@ -1,4 +1,6 @@
 Algoritmo "Questao7"
+// Disciplina  :  [Linguagem e Lógica de Programação] 
+// Professor   : Antonio Carlos Nicolodi 
 // Desenvolver um programa que apresente todos os
 //números divisíveis por 4 que sejam menores que 200.
 //Para saber se o número é divisível por 4 será

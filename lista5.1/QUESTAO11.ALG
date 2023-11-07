@@ -1,4 +1,6 @@
 Algoritmo "Questao11"
+// Disciplina  :  [Linguagem e Lógica de Programação] 
+// Professor   : Antonio Carlos Nicolodi 
 // Elaborar um programa que apresente o valor de uma
 //potência de uma base qualquer (Variável b) elevada
 //a um expoente qualquer (Variável e),

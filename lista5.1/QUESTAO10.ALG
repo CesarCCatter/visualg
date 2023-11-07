@@ -1,4 +1,6 @@
 Algoritmo "Questao10"
+// Disciplina  :  [Linguagem e Lógica de Programação] 
+// Professor   : Antonio Carlos Nicolodi 
 // Desenvolver um programa que apresente as potências
 //de 3 variando de 0 a 15. Deve ser considerado que
 //qualquer número elevado a zero é 1, e elevado a 1
@@ -15,6 +17,7 @@ pote: inteiro
 
 Inicio
 // Seção de Comandos, procedimento, funções, operadores, etc... 
+pote <- 0
 enquanto (pote <= 15) faca
           escreval(3 ^ pote)
           pote <- pote + 1
